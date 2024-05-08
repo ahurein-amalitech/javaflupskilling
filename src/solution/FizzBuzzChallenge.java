@@ -27,7 +27,6 @@ public class FizzBuzzChallenge {
                 isNumberInvalid = false;
             }
         }while (isNumberInvalid);
-        System.out.println("input value: " + inputValue);
         return  inputValue;
     }
 
